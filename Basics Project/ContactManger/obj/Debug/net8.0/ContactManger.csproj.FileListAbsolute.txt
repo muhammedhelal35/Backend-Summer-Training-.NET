@@ -1,0 +1,14 @@
+E:\My_Projects\ContactManger\ContactManger\bin\Debug\net8.0\ContactManger.exe
+E:\My_Projects\ContactManger\ContactManger\bin\Debug\net8.0\ContactManger.deps.json
+E:\My_Projects\ContactManger\ContactManger\bin\Debug\net8.0\ContactManger.runtimeconfig.json
+E:\My_Projects\ContactManger\ContactManger\bin\Debug\net8.0\ContactManger.dll
+E:\My_Projects\ContactManger\ContactManger\bin\Debug\net8.0\ContactManger.pdb
+E:\My_Projects\ContactManger\ContactManger\obj\Debug\net8.0\ContactManger.GeneratedMSBuildEditorConfig.editorconfig
+E:\My_Projects\ContactManger\ContactManger\obj\Debug\net8.0\ContactManger.AssemblyInfoInputs.cache
+E:\My_Projects\ContactManger\ContactManger\obj\Debug\net8.0\ContactManger.AssemblyInfo.cs
+E:\My_Projects\ContactManger\ContactManger\obj\Debug\net8.0\ContactManger.csproj.CoreCompileInputs.cache
+E:\My_Projects\ContactManger\ContactManger\obj\Debug\net8.0\ContactManger.dll
+E:\My_Projects\ContactManger\ContactManger\obj\Debug\net8.0\refint\ContactManger.dll
+E:\My_Projects\ContactManger\ContactManger\obj\Debug\net8.0\ContactManger.pdb
+E:\My_Projects\ContactManger\ContactManger\obj\Debug\net8.0\ContactManger.genruntimeconfig.cache
+E:\My_Projects\ContactManger\ContactManger\obj\Debug\net8.0\ref\ContactManger.dll
